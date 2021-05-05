@@ -12,7 +12,7 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "icon": "https://github.com/100lvlmaster/one_for_all_theme/blob/master/theme_logo.png",
+  "icon": "theme_logo.png",
   "repository": {
       "url":"https://github.com/100lvlmaster/one_for_all_theme.git",
       "type": "git"
