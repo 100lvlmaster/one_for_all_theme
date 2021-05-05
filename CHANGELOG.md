@@ -8,6 +8,6 @@
 
 - Add more one dark colors
 
-## [1.0.0]
+## [1.0.1]
 
 - Dim variable names
