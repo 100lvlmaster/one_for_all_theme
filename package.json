@@ -4,10 +4,19 @@
   "description": "One theme for all (mha reference)",
   "version": "0.0.1",
   "publisher": "100lvlmaster",
+  "author":{
+      "name":"Navin Kodag",
+      "email": "navinkodag@gmail.com",
+      "url":"https://navinko.netlify.app"
+  },
   "engines": {
     "vscode": "^1.55.0"
   },
   "icon": "https://github.com/100lvlmaster/one_for_all_theme/blob/master/theme_logo.png",
+  "repository": {
+      "url":"https://github.com/100lvlmaster/one_for_all_theme.git",
+      "type": "git"
+  },
   "categories": [
     "Themes"
   ],
