@@ -1,0 +1,21 @@
+{
+    "name": "one-for-all-theme",
+    "displayName": "One for All Theme",
+    "description": "One theme for all (mha reference)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One theme for all",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One theme for all-color-theme.json"
+            }
+        ]
+    }
+}
