@@ -3,8 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#282c34",
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#61afef",
+    "activityBarBadge.background": "#058fff",
     "activityBar.activeBackground": "#282c34",
     "activityBar.foreground": "#bbbbbb",
     "activityBar.background": "#282c34",
@@ -18,7 +17,7 @@
     "panelSection.dropBackground": "#282c34",
     "statusBar.background": "#282c34",
     "statusBar.debuggingBackground": "#282c34",
-    "list.activeSelectionBackground": "#61afef",
+    "list.activeSelectionBackground": "#058fff",
     "list.hoverBackground": "#1f436151",
     "list.activeSelectionForeground": "#ffffff",
     "editorGroupHeader.tabsBackground": "#25282e",
