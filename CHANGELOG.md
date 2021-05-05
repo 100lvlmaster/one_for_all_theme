@@ -7,3 +7,7 @@
 ## [0.0.2]
 
 - Add more one dark colors
+
+## [1.0.0]
+
+- Dim variable names
