@@ -1,12 +1,34 @@
 # [One for all theme](https://marketplace.visualstudio.com/items?itemName=100lvlmaster.one-for-all-theme)
 
-![alt](./theme_logo.png)
+![theme_logo](./theme_logo.png)
 
-A theme that follow Atom's one dark pro scheme
-but with minimal theme
+# 🚀
+
+⚡ A theme that follows Atom's one dark pro scheme
+but with minimal theme colors are consistent
 
 ## Screenshots
 
----
+### Code snippet
 
-coming soon
+![code_snippet.png](./screenshots/code_snippet.png)
+
+### Editor
+
+![editor.png](./screenshots/code_file_screenshot.png)
+
+### Settings
+
+![code_snippet.png](./screenshots/settings_screenshot.png)
+
+### Markdown preview
+
+![code_snippet.png](./screenshots/markdown_screenshot.png)
+
+Thanks for using the theme.
+
+[My website](https://navinko.netlify.app)
+
+😃 Thanksssssssssss
+
+You can reach out to me on anywhere lol.
