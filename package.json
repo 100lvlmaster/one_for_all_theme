@@ -1,21 +1,23 @@
 {
-    "name": "one-for-all-theme",
-    "displayName": "One for All Theme",
-    "description": "One theme for all (mha reference)",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "One theme for all",
-                "uiTheme": "vs-dark",
-                "path": "./themes/One theme for all-color-theme.json"
-            }
-        ]
-    }
+  "name": "one-for-all-theme",
+  "displayName": "One for All Theme",
+  "description": "One theme for all (mha reference)",
+  "version": "0.0.1",
+  "publisher": "100lvlmaster",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "icon": "https://github.com/100lvlmaster/one_for_all_theme/blob/master/theme_logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One theme for all",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One theme for all-color-theme.json"
+      }
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "colors": {
     "editor.background": "#282c34",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#61afef",
     "activityBar.activeBackground": "#282c34",
     "activityBar.foreground": "#bbbbbb",
     "activityBar.background": "#282c34",
@@ -17,7 +17,10 @@
     "panel.background": "#282c34",
     "panelSection.dropBackground": "#282c34",
     "statusBar.background": "#282c34",
-    "statusBar.debuggingBackground": "#282c34"
+    "statusBar.debuggingBackground": "#282c34",
+	"list.activeSelectionBackground": "#3c99e4",
+	"editorGroupHeader.tabsBackground": "#25282e",
+	"editorGutter.background": "#282c34",
   },
   "tokenColors": [
     {
@@ -88,7 +91,7 @@
       }
     },
     {
-      "name": "Function, Special Method",
+      "name": "Functi1on, Special Method",
       "scope": [
         "entity.name.function",
         "meta.function-call",
