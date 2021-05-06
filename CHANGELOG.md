@@ -11,3 +11,7 @@
 ## [1.0.1]
 
 - Dim variable names
+
+## [1.0.2]
+
+- Add a darker theme
