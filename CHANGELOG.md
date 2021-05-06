@@ -15,3 +15,7 @@
 ## [1.0.2]
 
 - Add a darker theme
+
+## [1.0.3]
+
+- Add darker theme screenshots

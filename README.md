@@ -25,6 +25,24 @@ but with minimal theme colors are consistent
 
 ![code_snippet.png](./screenshots/markdown_screenshot.png)
 
+# Darker
+
+### Code snippet
+
+![code_snippet.png](./screenshots/darker-snippet.png)
+
+### Editor
+
+![editor.png](./screenshots/darker-editor.png)
+
+### Settings
+
+![code_snippet.png](./screenshots/darker-settings.png)
+
+### Markdown preview
+
+![code_snippet.png](./screenshots/darker-readme.png)
+
 Thanks for using the theme.
 
 [My website](https://navinko.netlify.app)
