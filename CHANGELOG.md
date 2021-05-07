@@ -19,3 +19,11 @@
 ## [1.0.3]
 
 - Add darker theme screenshots
+
+## [1.0.4]
+
+- Update readme
+
+## [1.0.5]
+
+- Minor fix for colors

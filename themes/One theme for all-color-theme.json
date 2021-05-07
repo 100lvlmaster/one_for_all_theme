@@ -17,6 +17,7 @@
     "panelSection.dropBackground": "#282c34",
     "statusBar.background": "#282c34",
     "statusBar.debuggingBackground": "#282c34",
+    "statusBar.noFolderBackground": "#282c34",
     "list.activeSelectionBackground": "#058fff",
     "list.hoverBackground": "#1f436151",
     "list.activeSelectionForeground": "#ffffff",
@@ -29,7 +30,10 @@
     "button.foreground": "#fff",
     "button.hoverBackground": "#61afefb1",
     "input.background": "#22262e",
-    "dropdown.background": "#22262e"
+    "dropdown.background": "#22262e",
+    "notifications.background": "#22262e",
+    "editor.findMatchBackground": "#22262e",
+    "quickInput.background": "#22262e"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {

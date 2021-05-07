@@ -47,6 +47,14 @@ Thanks for using the theme.
 
 [My website](https://navinko.netlify.app)
 
-😃 Thanksssssssssss
-
 You can reach out to me on anywhere lol.
+
+If you want to help,
+
+<a href="https://www.paypal.com/paypalme/100lvlmaster">
+<img height=60 width=auto src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_266x142.png" alt='paypal.img'>
+</a><a href="https://www.paypal.com/paypalme/100lvlmaster">
+<img height=60 width=auto src="https://lh3.googleusercontent.com/cL0-sGY6d5KaZFLOYuM_Q7-jjtBMa4kWFH63P_SkulwLOeJ0RlsPSIFreR6K6np2n_Q_JSiZbSYmwGteTPNQ6M07II1bo_S6HJ4yFkE=s0" alt='gpay.img'>
+</a>
+
+😃 Thanksssssssssss

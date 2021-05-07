@@ -29,7 +29,11 @@
     "button.foreground": "#fff",
     "button.hoverBackground": "#61afefb1",
     "input.background": "#22262e",
-    "dropdown.background": "#26292f"
+    "dropdown.background": "#26292f",
+    "notifications.background": "#22262e",
+    "editor.findMatchBackground": "#22262e",
+    "quickInput.background": "#22262e",
+    "statusBar.noFolderBackground": "#1f2126"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
