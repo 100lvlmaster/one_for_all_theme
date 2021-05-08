@@ -27,3 +27,7 @@
 ## [1.0.5]
 
 - Minor fix for colors
+
+## [1.0.6]
+
+- Update readme
