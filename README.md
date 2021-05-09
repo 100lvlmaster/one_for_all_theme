@@ -1,8 +1,6 @@
 # [One for all theme](https://marketplace.visualstudio.com/items?itemName=100lvlmaster.one-for-all-theme)
 
-![theme_logo](./theme_logo.png)
-
-# 🚀
+![theme_logo](./theme_banner.png)
 
 ⚡ A theme that follows Atom's one dark pro scheme
 but with minimal theme colors are consistent
@@ -45,9 +43,8 @@ but with minimal theme colors are consistent
 
 Thanks for using the theme.
 
-[My website](https://navinko.netlify.app)
-
 You can reach out to me on anywhere lol.
+[My website](https://navinko.netlify.app)
 
 If you want to help, please donate
 
