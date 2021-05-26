@@ -48,7 +48,7 @@ You can reach out to me on anywhere lol.
 
 If you want to help, please donate
 
-<a href="https://https://www.paypal.com/paypalme/NavinKodag">
+<a href="https://https://www.paypal.com/paypalme/NavinKodagIN">
 <img height=60 width=auto src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_266x142.png" alt='paypal.img'>
 </a>
 
