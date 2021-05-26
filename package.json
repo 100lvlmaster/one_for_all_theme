@@ -2,7 +2,8 @@
   "name": "one-for-all",
   "displayName": "One for all",
   "description": "An minimal atom one dark theme for everyone with ergonomics and eye pleasing colors \n\n ...... One for all (mha reference)",
-  "version": "1.0.7",
+  "version": "1.0.8",
+  "license": "MIT",
   "publisher": "100lvlmaster",
   "author": {
     "name": "Navin Kodag",
@@ -10,7 +11,7 @@
     "url": "https://navinko.netlify.app"
   },
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.56.0"
   },
   "icon": "theme_logo.png",
   "repository": {
