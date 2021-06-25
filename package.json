@@ -2,7 +2,7 @@
   "name": "one-for-all",
   "displayName": "One for all",
   "description": "An minimal atom one dark theme for everyone with ergonomics and eye pleasing colors \n\n ...... One for all (mha reference)",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "MIT",
   "publisher": "100lvlmaster",
   "author": {
@@ -34,5 +34,8 @@
         "path": "./themes/theme-darker.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.94.0"
   }
 }
